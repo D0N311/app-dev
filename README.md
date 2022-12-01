@@ -1,6 +1,6 @@
 # app-dev
 My first repository.
-Lorence S. Palisan
+**Lorence S. Palisan**
 # Movies
 1. Iron Man
 2. Avengers
